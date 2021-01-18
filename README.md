@@ -1,6 +1,6 @@
 <p align="left">/
 
-## Hi there, I'm Mrigankai! 👋🏻 
+## Hi there, I'm Mrigankai! I am an app developer currently focussing on android app dev using java and kotlin 👋🏻 
 <!--
 I'm Android Developer with a serious passion for UI effects, animations and creating intuitive, dynamic user experiences with highly scalable backend. <br>
 <br>
